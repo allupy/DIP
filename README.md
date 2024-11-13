@@ -1,4 +1,4 @@
-# DIP
+![image](https://github.com/user-attachments/assets/be938c3b-2e16-42ba-98ee-1c21b192cca7)# DIP
 This is the homework of the DIP course of USTC, fall,2024.
 In this course,we have to learn the basic methods of the digital image processing.In the homeworks,we need to write the programs to realize the math function.
 
@@ -11,4 +11,5 @@ Here is our course's website:https://ustc-dip.github.io/  , you can find some ma
 ## HW2 Spatial Domain Filtering
 ## HW3 Radon Transform
 ## HW4 Wavelet Transformatin
+## HW5 Morphological Reconstruction
 
