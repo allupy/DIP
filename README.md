@@ -12,4 +12,5 @@ Here is our course's website:https://ustc-dip.github.io/  , you can find some ma
 ## HW3 Radon Transform
 ## HW4 Wavelet Transformatin
 ## HW5 Morphological Reconstruction
+## HW6 Threshold Segmentation
 
